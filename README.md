@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nexuseli18&theme=dark&show_icons=true&locale=en" alt="nexuseli18" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nexuseli18&theme=onedark" alt="nexuseli18" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nexuseli18&theme=onedark&title=-Stars,-Followers,-Reviews,-Issues" alt="nexuseli18" /></a> </p>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nexuseli18&" alt="nexuseli18" /></p> -->
