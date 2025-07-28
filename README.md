@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### This is a placeholder for my previous username: for my current profile please vise [saurabhpark](https://github.com/saurabhpark) or my [personal website](https://saurabhpark.github.io/)
+### This is a placeholder for my previous username: for my current profile please visit [saurabhpark](https://github.com/saurabhpark) or my [personal website](https://saurabhpark.github.io/)
 <h1 align="center">Hi 👋, I'm Saurabh Parkar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhpark&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhpark" /> </p>
 
